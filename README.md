@@ -1,4 +1,4 @@
-# Hi, I'm Jack 👋
+# Hi, I'm Jack
 
 **Engineer & Computer Scientist | Quantitative Finance | Based in London**
 
