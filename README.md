@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm passionate about applying engineering and scientific methods to challenging problems (especially in finance). Here you'll find my explorations in quantitative finance, risk modeling, and some side projects.
 
-## 🚀 Featured Projects
+## 🚀 Completed Projects
 
 - [Volatility_Modelling_Dupire_vs_Heston](https://github.com/JackRW23/Volatility_Modelling_Dupire_vs_Heston)  
   *Python* — Comparative analysis of volatility modeling approaches using the Dupire and Heston frameworks.
