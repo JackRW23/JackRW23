@@ -2,9 +2,9 @@
 
 **Engineer & Computer Scientist | Quantitative Finance | Based in London**
 
-Welcome to my GitHub! I'm passionate about applying engineering and scientific methods to challenging problems (especially in finance). Here you'll find my explorations in quantitative finance, risk modeling, and some side projects.
+Welcome to my GitHub!
 
-## 🚀 Completed Projects
+## Projects
 
 - [Volatility_Modelling_Dupire_vs_Heston](https://github.com/JackRW23/Volatility_Modelling_Dupire_vs_Heston)  
   *Python* — Comparative analysis of volatility modeling approaches using the Dupire and Heston frameworks.
@@ -23,13 +23,6 @@ Welcome to my GitHub! I'm passionate about applying engineering and scientific m
 
 - [jet_engine_tools](https://github.com/JackRW23/jet_engine_tools)  
   *Python* — Old engineering projects on engine/aircraft parameters and flight calculations.
-
-## 🧠 Skills & Interests
-
-- Quantitative Finance & Risk Modelling
-- Python, Jupyter Notebooks
-- Simulation, Scenario Analysis
-- Engineering
 
 ## 📍 Location
 
