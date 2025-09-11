@@ -1,6 +1,6 @@
 # Hi, I'm Jack
 
-**Engineer & Computer Scientist | Quantitative Finance | Based in London**
+**Engineer | Quantitative Finance | Based in London**
 
 Welcome to my GitHub!
 
